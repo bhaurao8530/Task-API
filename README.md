@@ -1,4 +1,4 @@
-#Task API using Node.js
+#Tasks API using Node.js
 It is simple and robust RESTful API for managing tasks, built with using Node.js and Express.js.
 
 #Features
@@ -6,7 +6,7 @@ Create, Read, Update, Delete (CRUD) tasks
 RESTful endpoints
 
 #Running the App
-cd task-api
+cd tasks-api
 npm install
 npm start
 run on http://localhost:3000/
