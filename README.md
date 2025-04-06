@@ -12,10 +12,10 @@ npm start
 run on http://localhost:3000/
 
 #API Endpoints
-Method	 Endpoint	      Description
+Method	 Endpoint	    Description
 GET	    /api/tasks	    Get all tasks
 GET	    /api/tasks/:id	Get task by ID
-POST	  /api/tasks	    Create a new task
+POST    /api/tasks	    Create a new task
 PUT	    /api/tasks/:id	Update task by ID
 DELETE	/api/tasks/:id	Delete task by ID
 
